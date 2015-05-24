@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            Sidali HALLAK(alias Bigali)
+description:      mobile and web developer addicted to caffeine and tv series.
+disqus_shortname: sidali_hallak
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,24 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Sidali HALLAK
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "mobile and web developer, last year student in Higher national school of computer science in Algeria."
+  email:          s_hallak@esi.dz
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:  https://twitter.com/sidalihallak      
+  facebook: https://www.facebook.com/bigaliz
+  github:   https://github.com/bigali      
+  stackexchange: https://stackexchange.com/users/3070611/sidali-hallak 
+  linkedin:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +https://www.linkedin.com/profile/view?id=183337120
 
 # Background image to be tiled on all pages
-background: 
+background: fond.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -35,7 +32,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Africa/Algiers	
 future:      true
 highlighter: pygments
 markdown:    kramdown
