@@ -1,11 +1,11 @@
 title:            Sidali HALLAK(alias Bigali)
 description:      mobile and web developer addicted to caffeine and tv series.
-disqus_shortname: sidali_hallak
+disqus_shortname: bigaligithubio
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: https://bigali.github.io
 
 # Owner/author information
 owner:
