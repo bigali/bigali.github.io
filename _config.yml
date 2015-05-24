@@ -23,7 +23,7 @@ owner:
   google_plus:    +https://www.linkedin.com/profile/view?id=183337120
 
 # Background image to be tiled on all pages
-background: fond.png
+background: 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
